@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skinetAPI", "skinetAPI\skinetAPI.csproj", "{29D23DA0-44A9-4BA1-AF96-9099F8BB24EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{C0EB8DFB-FD53-43E8-AEE5-D2AB0DF40550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{4E626A60-161F-454E-984E-A7FF67ACF032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D23DA0-44A9-4BA1-AF96-9099F8BB24EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D23DA0-44A9-4BA1-AF96-9099F8BB24EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D23DA0-44A9-4BA1-AF96-9099F8BB24EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D23DA0-44A9-4BA1-AF96-9099F8BB24EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EB8DFB-FD53-43E8-AEE5-D2AB0DF40550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EB8DFB-FD53-43E8-AEE5-D2AB0DF40550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EB8DFB-FD53-43E8-AEE5-D2AB0DF40550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EB8DFB-FD53-43E8-AEE5-D2AB0DF40550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E626A60-161F-454E-984E-A7FF67ACF032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E626A60-161F-454E-984E-A7FF67ACF032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E626A60-161F-454E-984E-A7FF67ACF032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E626A60-161F-454E-984E-A7FF67ACF032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF59F080-694C-4175-8AF8-AC2F4EF88C32}
+	EndGlobalSection
+EndGlobal
