@@ -265,3 +265,6 @@ C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\obj\Debug\net6.0\refi
 C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\obj\Debug\net6.0\skinetAPI.pdb
 C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\obj\Debug\net6.0\skinetAPI.genruntimeconfig.cache
 C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\obj\Debug\net6.0\ref\skinetAPI.dll
+C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Desktop\training\skinet\skinetAPI\skinetAPI\bin\Debug\net6.0\skinetAPI.staticwebassets.runtime.json
