@@ -12,8 +12,8 @@
     "skinetAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      //"launchBrowser": true,
-      //"launchUrl": "swagger",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7110;http://localhost:5110",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
